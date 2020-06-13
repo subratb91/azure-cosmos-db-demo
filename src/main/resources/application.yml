@@ -1,0 +1,7 @@
+
+
+azure:
+  cosmosdb:
+    uri: <cosmos_db_uri>
+    key: <key>
+    database: <database_name>
